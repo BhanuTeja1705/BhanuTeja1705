@@ -79,7 +79,7 @@ I have developed multiple projects in areas like **AI and Web Development**, foc
 |--------|------------|-----------|
 | [🖐️ Hand Gesture Mouse Control](https://github.com/BhanuTeja1705/hand-gesture-mouse-control) | Developed a system to control mouse operations using hand gestures with real-time tracking. | Python, OpenCV, MediaPipe |
 | [📊 Attendance Management App](https://github.com/BhanuTeja1705/attendance-android-app) | Built an attendance tracking application with data storage and retrieval functionality for efficient record management. | Python, Firebase |
-| [🌍 TripTrekker Travel Website](https://github.com/your-username/triptrekker) | Developed a travel planning website with structured navigation and responsive UI for better user experience. | HTML, CSS, JavaScript |
+| [🌍 TripTrekker Travel Website](https://github.com/BhanuTeja1705/TripTrekker)| Developed a travel planning website with structured navigation and responsive UI for better user experience. | HTML, CSS, JavaScript |
 | [🔍 Fake Profile Detection](https://github.com/BhanuTeja1705/Fake-profiles) | Developed a system to detect fake profiles using identity-based validation (e.g., Apaar ID) and classification techniques for improved authenticity. | Python, Scikit-learn, SQL |
 | [🌾 AI Powered Agricultural Advisor](https://github.com/BhanuTeja1705/AI-Agricultural-Advisor) | Created an AI-based application to assist farmers with crop suggestions, disease detection, and recommendations. | Python, Streamlit, Machine Learning |
 | [📚 AI Tutor Web Application](https://github.com/BhanuTeja1705/AI_Tutor_App)| Developed a personalized AI tutor with subject-based question answering and interactive interface. | Python, Streamlit, Gemini API |

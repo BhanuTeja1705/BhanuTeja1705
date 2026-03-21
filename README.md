@@ -77,9 +77,45 @@ I have developed multiple projects in areas like **AI and Web Development**, foc
 
 | Project | Description | Tech Stack |
 |--------|------------|-----------|
-| [🖐️ Hand Gesture Mouse Control](https://github.com/your-username/hand-gesture-mouse) | Developed a system to control mouse operations using hand gestures with real-time tracking. | Python, OpenCV, MediaPipe |
-| [📊 Attendance Management App](https://github.com/your-username/attendance-app) | Built an attendance tracking application with data storage and retrieval functionality for efficient record management. | Python, Firebase |
+| [🖐️ Hand Gesture Mouse Control](https://github.com/BhanuTeja1705/hand-gesture-mouse-control) | Developed a system to control mouse operations using hand gestures with real-time tracking. | Python, OpenCV, MediaPipe |
+| [📊 Attendance Management App](https://github.com/BhanuTeja1705/attendance-android-app) | Built an attendance tracking application with data storage and retrieval functionality for efficient record management. | Python, Firebase |
 | [🌍 TripTrekker Travel Website](https://github.com/your-username/triptrekker) | Developed a travel planning website with structured navigation and responsive UI for better user experience. | HTML, CSS, JavaScript |
-| [🔍 Fake Profile Detection](https://github.com/your-username/fake-profile-detection) | Developed a system to detect fake profiles using identity-based validation (e.g., Apaar ID) and classification techniques for improved authenticity. | Python, Scikit-learn, SQL |
-| [🌾 AI Powered Agricultural Advisor](https://github.com/your-username/agriculture-ai) | Created an AI-based application to assist farmers with crop suggestions, disease detection, and recommendations. | Python, Streamlit, Machine Learning |
-| [📚 AI Tutor Web Application](https://github.com/your-username/ai-tutor) | Developed a personalized AI tutor with subject-based question answering and interactive interface. | Python, Streamlit, Gemini API |
+| [🔍 Fake Profile Detection](https://github.com/BhanuTeja1705/Fake-profiles) | Developed a system to detect fake profiles using identity-based validation (e.g., Apaar ID) and classification techniques for improved authenticity. | Python, Scikit-learn, SQL |
+| [🌾 AI Powered Agricultural Advisor](https://github.com/BhanuTeja1705/AI-Agricultural-Advisor) | Created an AI-based application to assist farmers with crop suggestions, disease detection, and recommendations. | Python, Streamlit, Machine Learning |
+| [📚 AI Tutor Web Application](https://github.com/BhanuTeja1705/AI_Tutor_App)| Developed a personalized AI tutor with subject-based question answering and interactive interface. | Python, Streamlit, Gemini API |
+
+---
+## 🏆 Achievements
+
+- 🏅 Selected in **Top 50 – Smart India Hackathon (Internal Round)** among multiple competing teams  
+- 🎯 Selected as a **Trainee at Calibo AI Academy** (chosen from 300+ applicants)
+
+---
+## 📜 Certifications
+
+- 🎓 **Software Project Management** –- NPTEL  
+- ☁️ **Google Cloud Career Launchpad –- Data Analytics Track** – Google Cloud  
+- 🤖 **Introduction to Large Language Models** –- Google Cloud Skill Boost  
+- 🧠 **Introduction to AI & Vector Search** –- MongoDB  
+- 🐍 **Python Foundation Certification** –- Infosys Springboard  
+- 🌐 **Responsive Web Designing (HTML, CSS & JavaScript)** –- Infosys Springboard  
+- 🤖 **Prompt Engineering Certification** –- Infosys Springboard  
+- 💻 **C Programming Certification** –- IIT Bombay
+
+---
+## 🤝 Connect With Me
+
+<a href="mailto:your-gbhanu1717@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/bhanuteja-goriparthi">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+---
+
+💼 Open to **internship opportunities and collaborations in AI/ML and Software Development**
+
+📩 Feel free to reach out for projects, collaborations, or any opportunities!
+
+⭐ *“Learning, building, and growing towards becoming an AI Engineer.”*
